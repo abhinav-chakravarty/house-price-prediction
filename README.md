@@ -1,1 +1,2 @@
-# house-price-prediction
+# House Price Prediction
+House price prediction using Linear Regression
